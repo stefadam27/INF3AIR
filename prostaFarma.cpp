@@ -53,7 +53,7 @@ string losujImie()
         case 2: return "Stefan";
         case 3: return "Andrzej";
         case 4: return "Popierduka";
-        case 5: return "Zdzichu";
+        case 5: return "Zdzichu Mortal Combat";
         case 6: return "Gajusz Maksymilian Wladimir Mortemoriusz Ignacy Jan Babtysta";
     }
     throw -666;
