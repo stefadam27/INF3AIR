@@ -37,16 +37,22 @@ class Forfiter : public Zwierze {
     virtual ~Forfiter() { cout << "R.I.P Forfiter " << imie << endl; }
     virtual void glos() { cout << imie << ": " << " szwagier!" << endl; }
 };
-
+class Langusta : public Zwierze {
+    public:
+    Langusta(string imie) : Zwierze(imie) {}
+    virtual ~Langusta() { cout << "R.I.P Langusta " << imie << endl; }
+    virtual void glos() { cout << imie << ": " << " Krrk!" << endl; }
+};
 
 string losujImie()
 {
-    switch(rand()%4)
+    switch(rand()%5)
     {
         case 0: return "Matylda";
         case 1: return "Zocha";
         case 2: return "Stefan";
         case 3: return "Andrzej";
+        case 4: return "Popierduka";
     }
     throw -666;
     //return "???";
@@ -54,11 +60,12 @@ string losujImie()
 
 Zwierze* wyprodukujZwierza()
 {
-    switch(rand() % 3)
+    switch(rand() % 4)
     {
         case 0: return new Koza(losujImie()); break;
         case 1: return new Owca(losujImie()); break;
         case 2: return new Forfiter(losujImie()); break;
+        case 3: return new Langusta(losujImie()); break;
     }
 }
 
