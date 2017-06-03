@@ -8,7 +8,7 @@ Matornen - Michał Korycki - 229055
 konradinfa3 - Konrad Królikowski - 228993
 damianinf3 - Damian Socha - 225304
 GeeKey283 - Grzegorz Kryszkiewicz - 228979
-krzysztofszczurek - Krzysztof Szczurek - 228977
-Jacunia - Jacek Stankiewicz - 229011
-lowickib - Bartosz Łowicki - 229056
+krzysztofszczurek - Krzysztof Szczurek - 228977 https://github.com/krzysztofszczurek/TasmaProdukcyjna
+Jacunia - Jacek Stankiewicz - 229011 https://github.com/krzysztofszczurek/TasmaProdukcyjna
+lowickib - Bartosz Łowicki - 229056 https://github.com/krzysztofszczurek/TasmaProdukcyjna
 BashiQz - Tomasz Dydacki - 228965
