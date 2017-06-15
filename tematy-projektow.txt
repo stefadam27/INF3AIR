@@ -11,4 +11,4 @@ GeeKey283 - Grzegorz Kryszkiewicz - 228979
 krzysztofszczurek - Krzysztof Szczurek - 228977 https://github.com/krzysztofszczurek/TasmaProdukcyjna
 Jacunia - Jacek Stankiewicz - 229011 https://github.com/krzysztofszczurek/TasmaProdukcyjna
 lowickib - Bartosz Łowicki - 229056 https://github.com/krzysztofszczurek/TasmaProdukcyjna
-BashiQz - Tomasz Dydacki - 228965
+BashiQz - Tomasz Dydacki - 228965 https://github.com/BashiQz/Projektinf3
