@@ -6,7 +6,7 @@ kamil131 - Kamil Szczepański - 228983
 Nevrim - Adrian Rutkowski - 229065
 Matornen - Michał Korycki - 229055
 konradinfa3 - Konrad Królikowski - 228993
-damianinf3 - Damian Socha - 225304
+damianinf3 - Damian Socha - 225304 https://github.com/damianinf3/ProjektL/edit/master/Opis%20projektu
 GeeKey283 - Grzegorz Kryszkiewicz - 228979
 krzysztofszczurek - Krzysztof Szczurek - 228977 https://github.com/krzysztofszczurek/TasmaProdukcyjna
 Jacunia - Jacek Stankiewicz - 229011 https://github.com/krzysztofszczurek/TasmaProdukcyjna
