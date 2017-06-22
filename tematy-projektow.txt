@@ -3,11 +3,11 @@ student229018 - Mateusz Filipiak - 229018 https://github.com/MJOdorczuk/Project_
 mistedi64 - Katarzyna Dacko -229003 https://github.com/PIOTTER96/projekt
 PIOTTER96 - Piotr Klemczak - 229025 https://github.com/PIOTTER96/projekt
 kamil131 - Kamil Szczepański - 228983 
-Nevrim - Adrian Rutkowski - 229065
+Nevrim - Adrian Rutkowski - 229065 https://github.com/Nevrim/projekt
 Matornen - Michał Korycki - 229055
 konradinfa3 - Konrad Królikowski - 228993 https://github.com/konradinfa3/projektW
 damianinf3 - Damian Socha - 225304 https://github.com/damianinf3/ProjektL/edit/master/Opis%20projektu
-GeeKey283 - Grzegorz Kryszkiewicz - 228979
+GeeKey283 - Grzegorz Kryszkiewicz - 228979 https://github.com/Nevrim/projekt
 krzysztofszczurek - Krzysztof Szczurek - 228977 https://github.com/krzysztofszczurek/TasmaProdukcyjna
 Jacunia - Jacek Stankiewicz - 229011 https://github.com/krzysztofszczurek/TasmaProdukcyjna
 lowickib - Bartosz Łowicki - 229056 https://github.com/krzysztofszczurek/TasmaProdukcyjna
