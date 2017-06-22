@@ -12,3 +12,4 @@ krzysztofszczurek - Krzysztof Szczurek - 228977 https://github.com/krzysztofszcz
 Jacunia - Jacek Stankiewicz - 229011 https://github.com/krzysztofszczurek/TasmaProdukcyjna
 lowickib - Bartosz Łowicki - 229056 https://github.com/krzysztofszczurek/TasmaProdukcyjna
 BashiQz - Tomasz Dydacki - 228965 https://github.com/BashiQz/Projektinf3
+stefadam27 - Adam Stefański - 229041 https://github.com/kamil131/projekt
